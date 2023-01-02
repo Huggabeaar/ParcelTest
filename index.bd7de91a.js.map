@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAMA,aAAe,eACrBC,QAAQC,IAAIF","sources":["src/index.js"],"sourcesContent":["const CONSOLE_TEXT = 'Hello world!';\r\nconsole.log(CONSOLE_TEXT);"],"names":["CONSOLE_TEXT","console","log"],"version":3,"file":"index.bd7de91a.js.map"}
